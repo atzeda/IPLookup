@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IPLookupService\\IPLookupService.csproj",
+        "Action": "Start",
+        "DebugTarget": "IPLookupService"
+      },
+      {
+        "Path": "BatchProcessingService\\BatchProcessingService.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "BatchProcessingService"
+      }
+    ]
+  }
+]
